@@ -8,3 +8,9 @@ python 2.7.6 files
  14725931 Feb 25 07:58 Python-2.7.6.tgz
       284 Feb 25 08:54 sha1s
 
+
+websocket client:
+https://pypi.python.org/packages/source/w/websocket-client/websocket-client-0.12.0.tar.gz
+md5: 15bf7acb9caec87144d39ffcff765966
+
+
